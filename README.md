@@ -1,4 +1,4 @@
-# Support Page
+## Support & Feedback
 Developer: Moritz Klimmek
 
-Contact for support & feedback: moritz.klimmek@gmail.com
+Contact: moritz.klimmek@gmail.com
