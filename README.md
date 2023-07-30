@@ -3,7 +3,7 @@ Developer: Moritz Klimmek
 
 Contact: moritz.klimmek@gmail.com
 
-## Color.X Privacy Policy
+## Color Fight X Privacy Policy
 
 ### General
 
@@ -11,7 +11,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 ### Information Collection and Use
 
-I take your privacy very seriously. Beyond the information Apple provides to developers, this app uses no third-party analytics or advertising frameworks. Color.X does not collect, transmit, distribute or sell personal data.
+I take your privacy very seriously. Beyond the information Apple provides to developers, this app uses no third-party analytics or advertising frameworks. Color Fight X does not collect, transmit, distribute or sell personal data.
 
 ### Links to Other Sites
 
@@ -27,7 +27,7 @@ This policy is effective as of 2023-07-09
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me using the contact details at the top of this page.
 
-## GameChanger.X Privacy Policy
+## Game Changer X Privacy Policy
 
 ### General
 
@@ -35,7 +35,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 ### Information Collection and Use
 
-I take your privacy very seriously. Beyond the information Apple provides to developers, this app uses no third-party analytics or advertising frameworks. GameChanger.X does not collect, transmit, distribute or sell personal data.
+I take your privacy very seriously. Beyond the information Apple provides to developers, this app uses no third-party analytics or advertising frameworks. Game Changer X does not collect, transmit, distribute or sell personal data.
 
 ### Links to Other Sites
 
